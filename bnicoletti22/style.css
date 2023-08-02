@@ -1,0 +1,66 @@
+header {
+background-color: #828286;
+color:#FFFFFF;
+display: flex;
+justify-content: space-around;
+align-items:center;
+padding: 24px 0;
+
+
+
+
+}
+ul {
+font-size: 15px;
+color:aliceblue
+
+}
+.cabeçalho-imagem{
+    background-color: #828286;
+    color: #000000;
+    width: 250px;
+    weight: 250px;
+    margin: 20px;
+    padding: 20px;COLÉGIO CÍVICO MILITAR ANTÔNIO JOSÉ REIS
+
+    Estudante
+    Escola
+
+Colégio Cívico Militar Antônio José Reis
+
+Está localizado na Zona Urbana - R. Ernesto Dala Costa, 123 - Jardim Belo Horizonte, Toledo - PR, 85912-050 
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.lista-cabeçalho{
+    display: flex;
+    margin-top:231 ;
+    margin-left:421412 ;
+    margin-right: 421424;
+
+
+}
+.imagem-colegio{
+    width: 30%;
+    weight: 30%;
+}
+.escola {
+    background-image: linear-gradient(#828286, #ffffff);
+    color: #FFFFFF;
+    display: flex;
+
+}
+p {
+    color: rgb(241, 241, 241);
+    font-size: 20px;
+}
+h1{
+    color:rgb(233, 240, 240)
+}
+h3{
+    width: 900px;
+    height: auto;
+  
+}
